@@ -1,0 +1,7 @@
+__pycache__/
+__pytest_cache__/
+*.pvc
+.venv/
+.env
+venv/
+.git
